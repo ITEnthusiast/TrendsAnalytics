@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CPMineVC</key>
+	<string>个人中心</string>
+	<key>CPMainVC</key>
+	<string>主页面</string>
+	<key>CPShopVC</key>
+	<string>商铺推广</string>
+	<key>CPActivityVC</key>
+	<string>活动推广</string>
+	<key>CPChannelVC</key>
+	<string>频道推广</string>
+	<key>CPSearchVC</key>
+	<string>搜索中心</string>
+	<key>CPLoginVC</key>
+	<string>登陆中心</string>
+	<key>CPTestSummaryVC</key>
+	<string>宝贝推广信息</string>
+	<key>CPPromoteVC</key>
+	<string>推广位管理</string>
+	<key>CPReportVC</key>
+	<string>报表</string>
+</dict>
+</plist>
